@@ -1,5 +1,8 @@
 # Gift Wallet & QRCOde Generator
 
+> [!CAUTION]
+> **This repository has been archived.** Please use [w3rkspacelabs/bzz-gift-code-dapp](https://github.com/w3rkspacelabs/bzz-gift-code-dapp/) instead.
+
 ## Requirements
 
 - `node` (>= `18`)
