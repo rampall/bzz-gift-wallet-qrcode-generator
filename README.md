@@ -1,7 +1,7 @@
 # Gift Wallet & QR-Code Generator
 
 > [!CAUTION]
-> **This repository has been archived.** Please use [w3rkspacelabs/bzz-gift-code-dapp](https://github.com/w3rkspacelabs/bzz-gift-code-dapp/) instead.
+> **This repository has been archived.** Please use https://github.com/w3rkspacelabs/swarm-bzz-gift-code-dapp instead.
 
 ## Requirements
 
